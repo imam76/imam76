@@ -1,5 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/imam76/imam76/refs/heads/main/reusable-code.jpg" width="400"> -->
-![reusable-code](.github/assets/reusable-code.jpg 'reusable-code')
+![reusable-code](.github/assets/banner.png 'reusable-code')
 
 # 👋 Hey there! I'm Imam
 
