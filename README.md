@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Imam
 
-<img src="https://raw.githubusercontent.com/imam76/im4m_/refs/heads/main/reusable-code.jpg" align="right" width="400">
+<img src="https://raw.githubusercontent.com/imam76/imam76/refs/heads/main/reusable-code.jpg" align="right" width="300">
 
 A passionate **Fullstack Developer** who loves building robust web applications and solving real-world problems with code. From crafting smooth, dynamic user interfaces to architecting reliable back-end solutions, I enjoy every step of the development process. Always eager to learn and adapt, I keep myself up-to-date with the latest technologies to deliver the best in every project.
 
