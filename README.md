@@ -21,43 +21,52 @@ A passionate **Fullstack Developer** who loves building robust applications and 
 
 ### **Zahir International** – *Frontend Web Developer*  
 📍 Jakarta, Indonesia | **July 2018 – Now**  
-- Mengembangkan dan memelihara **UI/UX** untuk aplikasi keuangan Zahir.  
-- Optimisasi performa antarmuka agar ringan di berbagai perangkat & browser.  
-- Kolaborasi dengan tim backend, QA, dan desain untuk menjaga kualitas produk.  
-- Integrasi UI dengan berbagai **API** agar aplikasi berjalan sesuai kebutuhan.  
-- Melakukan **debugging & maintenance** rutin untuk menjaga keamanan dan performa.  
+- Developed and maintained **UI/UX** for Zahir financial applications.  
+- Optimized interface performance for smooth usage across devices & browsers.  
+- Collaborated with backend, QA, and design teams to maintain product quality.  
+- Integrated UI with various **APIs** to ensure app functionality.  
+- Performed regular **debugging & maintenance** to maintain security and performance.  
 
 ---
 
 ### **Tonjoo** – *Frontend React Developer (Freelance)*  
 📍 Sleman, Indonesia | **April 2024 – July 2025**  
-- Berkontribusi dalam proyek **Dompet Dhuafa** untuk sistem manajemen relawan.  
-- Membangun fitur pendaftaran relawan, pelatihan, dan manajemen aktivitas berbasis React.  
+- Contributed to the **Dompet Dhuafa** project for volunteer management systems.  
+- Built features for volunteer registration, training, and activity management using React.  
 
 ---
 
 ### **FANATECH** – *Frontend Web Developer (Freelance)*  
 📍 Bandung, Indonesia | **Nov 2024 – Jan 2025**  
-- Mengembangkan aplikasi web untuk **PIR BPKM (BKPM)** berupa landing page publik & CMS custom.  
-- Membangun UI **responsif & accessible** dengan React, TypeScript, dan Tailwind CSS.  
-- Implementasi CMS dengan kemampuan CRUD konten tanpa bantuan teknis.  
-- Integrasi frontend dengan API backend untuk **sinkronisasi data real-time**.  
-- Optimisasi **SEO, performa, dan deployment** sesuai best practice.
+- Developed a web application for **PIR BPKM (BKPM)** consisting of a public landing page & custom CMS.  
+- Built a **responsive & accessible** UI with React, TypeScript, and Tailwind CSS.  
+- Implemented CMS features with full CRUD capabilities for non-technical admins.  
+- Integrated frontend with backend APIs for **real-time data synchronization**.  
+- Optimized **SEO, performance, and deployment** following best practices.  
 
 ---
 
 ### **RSISA Sultan Agung** – *Frontend Web Developer (Freelance)*  
-📍 Semarang, Indonesia | **March 2020 – May 2020**  
-- Membuat aplikasi internal untuk **manajemen & kategorisasi pasien**.
+📍 Semarang, Indonesia | **Mar 2020 – May 2020**  
+- Built an internal application for patient management and categorization.  
+- Developed a responsive and user-friendly interface using modern web technologies.  
+- Collaborated with RSISA Sultan Agung’s team to meet hospital system needs.  
 
+---
 
-### **SIXDAY STYLE** – *JS Backend Developer (Freelance)*  
+### **SIXDAY STYLE** – *Backend Developer (Freelance, JavaScript)*  
 📍 Bogor, Indonesia | **May 2023 – Jul 2023**  
-- Membuat Api Service for marketplace and personal branding
+- Built API services for marketplace and personal branding platforms.  
+- Designed scalable backend architecture with smooth frontend integration.  
+- Implemented authentication and management of product & user data.  
 
-### **Accaunting Management** – *Rust Backend Developer (Freelance)*  
+---
+
+### **Accounting Management** – *Backend Developer (Freelance, Rust)*  
 📍 Bogor, Indonesia | **May 2023 – Jul 2023**  
-- Membuat Api Service for marketplace and personal branding
+- Developed API services for a marketplace-based financial management app.  
+- Built modules for transaction logging, financial reports, and token-based authentication.  
+- Optimized backend performance with a *clean architecture* approach in Rust.  
 
 ---
 
@@ -87,3 +96,4 @@ When I'm not coding, you might find me:
 
 ## 🚀 Let's Collaborate!
 I'm always excited to work on impactful projects, explore innovative ideas, and connect with other tech enthusiasts. Feel free to reach out if you’d like to collaborate, discuss tech, or just connect!
+
