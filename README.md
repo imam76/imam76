@@ -3,28 +3,26 @@
 
 # 👋 Hey there! I'm Imam
 
-A passionate **Fullstack Developer** who loves building robust web applications and solving real-world problems with code. From crafting smooth, dynamic user interfaces to architecting reliable back-end solutions, I enjoy every step of the development process. Always eager to learn and adapt, I keep myself up-to-date with the latest technologies to deliver the best in every project.
+A passionate **Fullstack Developer** who loves building robust applications and solving real-world problems with code. From crafting smooth, dynamic user interfaces to architecting reliable back-end solutions, I enjoy every step of the development process. Always eager to learn and adapt, I keep myself up-to-date with the latest technologies to deliver the best in every project.
 
 ---
 
 ## 🌟 Skills
-- **Languages:** PHP, TypeScript, Python, JavaScript
-- **Frontend:** React, Vue, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express, Laravel, Flask, Django
-- **Database:** MySQL, PostgreSQL, MongoDB
-- **Other Tools:** Git, Docker, Jest, Webpack, Vite
+- **Languages:** Js/Ts, Python, PHP, Rust
+- **Database:** MySQL, PostgreSQL, MSSQL, SQL Lite, MongoDB
+- **Other Tools:** Git, Docker, Bash, VScode
 
 ---
 
 ## 🧑‍💻 Experience
-With a background in **JavaScript/TypeScript**, **PHP**, and **Python**, I’ve built and maintained web applications from concept to launch. My experience spans both the front and back end, allowing me to deliver cohesive, full-stack solutions.
+With that skills set, I’ve built and maintained applications from concept to launch. My experience spans both the front and back end, allowing me to deliver cohesive, full-stack solutions.
 
 ---
 
 ## 📚 Frameworks & Libraries
-- **Frontend:** React, Vue, Redux, Tailwind CSS
-- **Backend:** Laravel, Express, Django, FastAPI
-- **Testing:** Jest, Mocha, Cypress
+- **Frontend:** React JS/TS, Vue JS, Django Python, Tailwind CSS
+- **Backend:** Laravel PHP, Hono JS, Express JS, Rocket Rust, FastAPI Python
+- **Testing:** Jest, Mocha, Cypress, Katalon
 
 ---
 
