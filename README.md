@@ -8,7 +8,7 @@ A passionate **Fullstack Developer** who loves building robust applications and 
 ---
 
 ## 🌟 Skills
-- **Languages:** Js/Ts, Python, PHP, Rust
+- **Languages:** Javascript/Typescript, Python, PHP, Rust
 - **Database:** MySQL, PostgreSQL, MSSQL, SQL Lite, MongoDB
 - **Other Tools:** Git, Docker, Bash, VScode
 
