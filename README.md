@@ -7,38 +7,81 @@ A passionate **Fullstack Developer** who loves building robust applications and 
 
 ---
 
-## 🌟 Skills
-- **Languages:** Javascript/Typescript, Python, PHP, Rust
-- **Database:** MySQL, PostgreSQL, MSSQL, SQL Lite, MongoDB
-- **Other Tools:** Git, Docker, Bash, VScode
+## 🌟 Tech Stack
+- **Languages:** Javascript/Typescript, Python, PHP, Rust  
+- **Frontend:** React (JS/TS), Vue, Tailwind CSS  
+- **Backend:** Laravel, Express, Hono, Rocket, FastAPI  
+- **Database:** PostgreSQL, MySQL, MongoDB, MSSQL, SQLite  
+- **Testing:** Jest, Mocha, Cypress, Katalon  
+- **DevOps & Tools:** Git, Docker, Bash, VSCode  
 
 ---
 
-## 🧑‍💻 Experience
-With that skills set, I’ve built and maintained applications from concept to launch. My experience spans both the front and back end, allowing me to deliver cohesive, full-stack solutions.
+## 🏢 Career & Working Experience  
+
+### **Zahir International** – *Frontend Web Developer*  
+📍 Jakarta, Indonesia | **July 2018 – Now**  
+- Mengembangkan dan memelihara **UI/UX** untuk aplikasi keuangan Zahir.  
+- Optimisasi performa antarmuka agar ringan di berbagai perangkat & browser.  
+- Kolaborasi dengan tim backend, QA, dan desain untuk menjaga kualitas produk.  
+- Integrasi UI dengan berbagai **API** agar aplikasi berjalan sesuai kebutuhan.  
+- Melakukan **debugging & maintenance** rutin untuk menjaga keamanan dan performa.  
 
 ---
 
-## 📚 Frameworks & Libraries
-- **Frontend:** React JS/TS, Vue JS, Django Python, Tailwind CSS
-- **Backend:** Laravel PHP, Hono JS, Express JS, Rocket Rust, FastAPI Python
-- **Testing:** Jest, Mocha, Cypress, Katalon
+### **Tonjoo** – *Frontend React Developer (Freelance)*  
+📍 Sleman, Indonesia | **April 2024 – July 2025**  
+- Berkontribusi dalam proyek **Dompet Dhuafa** untuk sistem manajemen relawan.  
+- Membangun fitur pendaftaran relawan, pelatihan, dan manajemen aktivitas berbasis React.  
+
+---
+
+### **FANATECH** – *Frontend Web Developer (Freelance)*  
+📍 Bandung, Indonesia | **Nov 2024 – Jan 2025**  
+- Mengembangkan aplikasi web untuk **PIR BPKM (BKPM)** berupa landing page publik & CMS custom.  
+- Membangun UI **responsif & accessible** dengan React, TypeScript, dan Tailwind CSS.  
+- Implementasi CMS dengan kemampuan CRUD konten tanpa bantuan teknis.  
+- Integrasi frontend dengan API backend untuk **sinkronisasi data real-time**.  
+- Optimisasi **SEO, performa, dan deployment** sesuai best practice.
+
+---
+
+### **RSISA Sultan Agung** – *Frontend Web Developer (Freelance)*  
+📍 Semarang, Indonesia | **March 2020 – May 2020**  
+- Membuat aplikasi internal untuk **manajemen & kategorisasi pasien**.
+
+
+### **SIXDAY STYLE** – *JS Backend Developer (Freelance)*  
+📍 Bogor, Indonesia | **May 2023 – Jul 2023**  
+- Membuat Api Service for marketplace and personal branding
+
+### **Accaunting Management** – *Rust Backend Developer (Freelance)*  
+📍 Bogor, Indonesia | **May 2023 – Jul 2023**  
+- Membuat Api Service for marketplace and personal branding
+
+---
+
+## 📚 Highlight Projects
+- 🔗 [Myapp Rust API](https://github.com/imam76/myapp-api-rust) – Backend API with **Rust (Axum + SQLx)**, PostgreSQL, and JWT Auth.  
+- 🔗 [Base Project Vite](https://github.com/imam76/base-project-vite) – Business management web app with React 19, Vite, Zustand, and Ant Design.  
+- 🔗 [PPDB Scraping](https://github.com/imam76/ppdb-scraping) – Python web scraper with Selenium to collect & analyze student admission data.  
+- 🔗 [Silica](https://github.com/imam76/silica) – Task management app similar to Trello.  
 
 ---
 
 ## 👥 Connect with Me
-- **LinkedIn:** [in/imam76](https://www.linkedin.com/in/asep-imam)
-- **GitHub:** [imam76](https://github.com/imam76)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asep-imam)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/imam76)  
 
 ---
 
 ## 🎸 Interests
-When I'm not coding, you might find me:
-- 💻 Exploring and experimenting with new technologies
-- 🎶 Playing guitar and creating music
-- 📖 Learning about AI, machine learning, and deep learning
-- 🌌 Studying physics, space science, and the mysteries of the universe
-- ⚛️ Exploring quantum physics and theoretical science concepts
+When I'm not coding, you might find me:  
+- 💻 Exploring and experimenting with new technologies  
+- 🎶 Playing guitar and creating music  
+- 📖 Learning about AI, machine learning, and deep learning  
+- 🌌 Studying physics, space science, and the mysteries of the universe  
+- ⚛️ Exploring quantum physics and theoretical science concepts  
 
 ---
 
