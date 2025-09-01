@@ -30,8 +30,9 @@ A passionate **Fullstack Developer** who loves building robust applications and 
 ---
 
 ### **Tonjoo** – *Frontend React Developer (Freelance)*  
-📍 Sleman, Indonesia | **April 2024 – July 2025**  
-- Contributed to the **Dompet Dhuafa** project for volunteer management systems.  
+📍 Sleman, Indonesia | **April 2024 – July 2025**
+- Tonjoo is software house and i am worked on a project for Dompet Dhuafa to create a program that can
+manage and record volunteers, activities, and volunteer training.  
 - Built features for volunteer registration, training, and activity management using React.  
 
 ---
